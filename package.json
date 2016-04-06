@@ -1,0 +1,22 @@
+{
+  "name": "xz-ipnet",
+  "version": "1.0.0",
+  "description": "国内ip地区查询，基于ipip.net免费数据库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keepeye/xz-ipnet.git"
+  },
+  "keywords": [
+    "ipip.net"
+  ],
+  "author": "carlton.cheng@foxmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keepeye/xz-ipnet/issues"
+  },
+  "homepage": "https://github.com/keepeye/xz-ipnet#readme"
+}
