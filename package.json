@@ -1,6 +1,6 @@
 {
   "name": "xz-ipnet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "国内ip地区查询，基于ipip.net免费数据库",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/keepeye/xz-ipnet/issues"
   },
-  "homepage": "https://github.com/keepeye/xz-ipnet#readme"
+  "homepage": "https://github.com/keepeye/xz-ipnet#readme",
+  "dependencies": {
+    "bufferpack": "0.0.6",
+    "ip": "^1.1.2"
+  }
 }
