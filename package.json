@@ -1,6 +1,6 @@
 {
   "name": "xz-ipnet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "国内ip地区查询，基于ipip.net免费数据库",
   "main": "index.js",
   "scripts": {

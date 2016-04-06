@@ -1,6 +1,10 @@
 IP地理位置查询
 --------------
 
+### 安装
+
+	npm install xz-ipnet --save
+
 ### 普通用法
 
 	var ipnet = require('xz-ipnet')();
